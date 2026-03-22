@@ -16,8 +16,6 @@
 - 🔭 I'm currently working on **Python engineering tools & ML projects**
 - 🌱 I'm currently learning **Machine Learning, FastAPI, and TensorFlow**
 - 💡 Passionate about combining **engineering and software** to solve real problems
-- 🎓 Studying **Electromechanical Engineering** at AASTU, Addis Ababa
-- ⚙️ Skilled in **SolidWorks, CAD Design, and Photoshop**
 - 📫 Reach me on **LinkedIn** or open an issue on any of my repos
 
 ---
